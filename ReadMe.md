@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OcraHost project and as Freelance<br>👯 I'm looking to collaborate with anyone who loves to code.<br>💬 Passionate Full Stack developer with expertise in React, Node.js, SQL and NoSQL. <br>My agile experience enables me to deliver high-performance, scalable and intuitive solutions. <br>I have a real passion for creating innovative and modern products.<br>⚡ Also a former trainer for the DWWM diploma.
+🔭 I’m currently searching for a project and as Freelance or as an employee<br>👯 I'm looking to collaborate with anyone who loves to code.<br>💬 Passionate Full Stack developer with expertise in React, Node.js, SQL and NoSQL. <br>My agile experience enables me to deliver high-performance, scalable and intuitive solutions. <br>I have a real passion for creating innovative and modern products.<br>⚡ Also a former trainer for the DWWM diploma.
 
 
 ## 🌐 Socials:
